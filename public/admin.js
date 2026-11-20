@@ -1,5 +1,5 @@
 
-const API_URL = 'https://leave-management-system-mh1o.onrender.com';
+const API_URL = 'https://leave-management-system-a8tx.onrender.com';
 
 const token = localStorage.getItem('token');
 
